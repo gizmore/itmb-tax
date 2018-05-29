@@ -1,0 +1,46 @@
+Versandbestätigung
+
+Sie haben Ihre Umsatzsteuererklärung am 15.05.2017 mit ElsterOnline abgesendet. Bitte notieren Sie sich das Transferticket. Es dient im Fehlerfall zur Identifizierung des Auftrags.
+Auftrag 	Umsatzsteuererklärung 2016
+Ordnungskriterium 	38/107/05324
+Transferticket 	2000159250782500517
+Abgabezeit 	18:37:07 
+
+----------
+
+
+Versandbestätigung
+
+Sie haben Ihre Gewerbesteuererklärung am 15.05.2017 mit ElsterOnline abgesendet. Bitte notieren Sie sich das Transferticket. Es dient im Fehlerfall zur Identifizierung des Auftrags.
+Auftrag 	Gewerbesteuererklärung (GewSt 1 A) 2016
+Ordnungskriterium 	38/107/05324
+Transferticket 	2000159253876500517
+Abgabezeit 	18:39:17 
+
+
+-----------
+
+
+Versandbestätigung
+
+Sie haben Ihre Einnahmenüberschussrechnung am 15.05.2017 mit ElsterOnline abgesendet. Bitte notieren Sie sich das Transferticket. Es dient im Fehlerfall zur Identifizierung des Auftrags.
+Auftrag 	Einnahmenüberschussrechnung 2016
+Ordnungskriterium 	38/107/05324
+Transferticket 	2000159263984500517
+Abgabezeit 	18:48:23 
+
+
+------------
+
+
+
+Versandbestätigung
+
+Sie haben Ihre Einkommensteuererklärung am 15.05.2017 mit ElsterOnline abgesendet. Bitte notieren Sie sich das Transferticket. Es dient im Fehlerfall zur Identifizierung des Auftrags.
+Auftrag 	Einkommensteuererklärung unbeschränkt (ESt 1 A) 2016
+Ordnungskriterium 	38/107/05324
+Transferticket 	2000159266377500517
+Abgabezeit 	18:52:10
+
+
+

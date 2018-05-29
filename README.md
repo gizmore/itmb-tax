@@ -1,2 +1,5 @@
 # itmb-tax
-Steuer und Rechnungen für meine Firma
+Steuer und Rechnungen für meine Firma.
+Lieber ein Backup mehr als eines weniger :)
+
+
